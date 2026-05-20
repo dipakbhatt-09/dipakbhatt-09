@@ -9,33 +9,36 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 BSc CSIT graduate from Tribhuvan University 🇳🇵  
 Full Stack Developer focused on building scalable web applications.  
 I love backend systems, APIs, and modern web technologies.
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 Python • Django • React • JavaScript • PostgreSQL • REST APIs • Git
 
 ---
+## 🧑‍💻 GitHub Stats
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipakbhatt-09&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=dipakbhatt-09&show_icons=true&theme=tokyonight&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipakbhatt-09&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipakbhatt-09&theme=tokyonight)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipakbhatt-09&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=dipakbhatt-09&theme=tokyonight&hide_border=true" />
 
 ---
 
-## 🚀 Projects
+##  Projects
 - personal portfolio 
 - Social Media Web Application  
 - Weather app

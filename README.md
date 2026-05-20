@@ -1,47 +1,64 @@
+<!-- TOP BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=DIPAK%20BHATT&fontSize=55&fontColor=ffffff" />
+
 <div align="center">
-  
-<h1 style="font-size:60px;
-front-weight:900;">DIPAK BHATT</h1>
 
-<h3> Full Stack developer| nepal🇳🇵</h3>
-
-
-<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=BSc+CSIT+Tribhuvan+University;Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+Scalable+Web+Apps;%7C+Backend+%7C+Frontend" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=700&lines=BSc+CSIT+Tribhuvan+University;Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+Scalable+Web+Apps;AI+%7C+Backend+%7C+Frontend" />
 
 </div>
 
 ---
 
-##  ABOUT ME
-BSc CSIT graduate from Tribhuvan University. full Stack Developer focused on building scalable web applications.
-                       I build full stack web applications using modern technologies.
+## 👨‍💻 About Me
+BSc CSIT graduate from Tribhuvan University 🇳🇵  
+Full Stack Developer focused on building scalable web applications.  
+I love backend systems, APIs, and modern web technologies.
 
 ---
 
-##  TECH STACK
-Python • Django • React • JavaScript • PostgreSQL • Git • REST APIs
+## ⚡ Tech Stack
+Python • Django • React • JavaScript • PostgreSQL • REST APIs • Git
 
 ---
 
-##  GITHUB STATS
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=dipakbhatt-09&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipakbhatt-09&layout=compact&theme=tokyonight&hide_border=true" />
-
----
-
-##  GITHUB STREAK
-
-<img src="https://streak-stats.demolab.com?user=dipakbhatt09&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
-##  CONNECT WITH ME
+## 🔥 GitHub Streak
 
-<a href="https://linkedin.com/in/dipakbhatt99">💼 LinkedIn</a>  
-<a href="https://facebook.com/dipak.bhatt.535999">📘 Facebook</a>   
-📧 Email: bhattdipak90@gmail.com
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+---
+
+## 🚀 Projects
+- AI-Based Classroom Attendance System  
+- Social Media Web Application  
+- Budget Transparency System  
+
+---
+
+## 🌐 Connect With Me
+
+<a href="https://linkedin.com">💼 LinkedIn</a>  
+<a href="https://facebook.com">📘 Facebook</a>  
+<a href="https://instagram.com">📸 Instagram</a>  
+📧 Email: your-email@gmail.com  
+
+---
+
+## 🇳🇵 Nepal Developer
+Building real-world software from Nepal 🇳🇵  
+Code • Build • Learn • Repeat 🚀  
+
+---
+
+<!-- FOOTER ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
  
 
 

@@ -1,41 +1,57 @@
 <div align="center">
 
-<div style="background: linear-gradient(135deg, #0ea5e9, #1e3a8a); padding: 25px; border-radius: 15px;">
-
-#  DIPAK BHATT  
+# 🤍 DIPAK BHATT  
 ### 💻 Full Stack Developer • Nepal 🇳🇵  
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&color=ffffff&center=true&vCenter=true&width=600&lines=BSc+CSIT+Tribhuvan+University;Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+Web+Apps" />
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=BSc+CSIT+Tribhuvan+University;Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+Scalable+Web+Apps;AI+%7C+Backend+%7C+Frontend" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 ABOUT ME
 Full Stack Developer from Nepal 🇳🇵  
-I build scalable web applications using Django and React.
+I love building real-world web applications and AI-based systems.  
+Focused on Backend (Django) + Frontend (React).
 
 ---
 
-## 🛠️ Tech Stack
-Python • Django • React • JavaScript • PostgreSQL • Git
+## ⚡ TECH STACK
+Python • Django • React • JavaScript • PostgreSQL • Git • REST APIs
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GITHUB STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 
----
-
-## 🔥 Streak
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
-## 🌐 Connect
+## 🔥 GITHUB STREAK
 
-LinkedIn • Facebook • Instagram
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<a href="https://linkedin.com">💼 LinkedIn</a>  
+<a href="https://facebook.com">📘 Facebook</a>  
+<a href="https://instagram.com">📸 Instagram</a>  
+📧 Email: your-email@gmail.com  
+
+---
+
+## 🇳🇵 NEPAL DEVELOPER
+Building scalable software from Nepal 🇳🇵  
+Code • Build • Learn • Repeat 🚀  
+
+---
+
+<div align="center">
+
+⭐ If you like my work, follow me! ⭐  
+
+</div>

@@ -1,9 +1,13 @@
 <div align="center">
 
-# 🤍 DIPAK BHATT  
-### 💻 Full Stack Developer / Nepal 🇳🇵  
+<div style="background: linear-gradient(135deg, #0ea5e9, #1e3a8a); padding: 25px; border-radius: 15px;">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=600&lines=BSc+CSIT+Tribhuvan+University;Full+Stack+Developer;Python+%7C+Django+%7C+React;Web+Developer" />
+#  DIPAK BHATT  
+### 💻 Full Stack Developer • Nepal 🇳🇵  
+
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=ffffff&center=true&vCenter=true&width=600&lines=BSc+CSIT+Tribhuvan+University;Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+Web+Apps" />
+
+</div>
 
 </div>
 
@@ -11,27 +15,18 @@
 
 ## 👨‍💻 About Me
 Full Stack Developer from Nepal 🇳🇵  
-I build web applications using Django and React.
+I build scalable web applications using Django and React.
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Tech Stack
 Python • Django • React • JavaScript • PostgreSQL • Git
-
----
-
-## 📌 Projects
-- AI Attendance System  
-- Social Media Web App  
-- Budget Transparency System  
 
 ---
 
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 
 ---
 
@@ -41,14 +36,6 @@ Python • Django • React • JavaScript • PostgreSQL • Git
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
-<a href="https://linkedin.com">LinkedIn</a>  
-<a href="https://facebook.com">Facebook</a>  
-<a href="https://instagram.com">Instagram</a>  
-
----
-
-⭐ Code • Build • Learn • Repeat  
-🇳🇵 Made from Nepal
-
+LinkedIn • Facebook • Instagram

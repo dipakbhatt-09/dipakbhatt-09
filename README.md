@@ -20,15 +20,7 @@ I love backend systems, APIs, and modern web technologies.
 Python • Django • React • JavaScript • PostgreSQL • REST APIs • Git
 
 ---
-## 🧑‍💻 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipakbhatt-09&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipakbhatt-09&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipakbhatt-09&theme=tokyonight)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipakbhatt-09&layout=compact&theme=tokyonight&hide_border=true" />
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dipakbhatt-09&show_icons=true&theme=radical)
 
 ---
 

@@ -20,7 +20,7 @@ I love backend systems, APIs, and modern web technologies.
 Python • Django • React • JavaScript • PostgreSQL • REST APIs • Git
 
 ---
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dipakbhatt-09&show_icons=true&theme=radical)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipakbhatt-09&show_icons=true&theme=radical)
 
 ---
 

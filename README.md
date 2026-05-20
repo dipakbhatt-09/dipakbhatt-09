@@ -25,15 +25,15 @@ Python • Django • React • JavaScript • PostgreSQL • Git • REST APIs
 
 ## 📊 GITHUB STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=dipakbhatt-09&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipakbhatt-09&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
 ## 🔥 GITHUB STREAK
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=dipakbhatt09&theme=tokyonight&hide_border=true" />
 
 ---
 

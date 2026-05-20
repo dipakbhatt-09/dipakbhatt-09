@@ -1,16 +1,14 @@
-## Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%7C+React+%7C+Python;Building+Real+World+Apps;Always+Learning+New+Tech" />
 
-<!--
-**dipakbhatt-09/dipakbhatt-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+I am a Full Stack Developer from Nepal.  
+I build web applications using Django and React.  
+I love backend systems and AI-based projects.
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api?username=diakbhatt-09&show_icons=true&theme=tokyonight" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+
+

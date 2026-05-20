@@ -1,7 +1,10 @@
 <div align="center">
+  
+<h1 style="font-size:60px;
+front-weight:900;">DIPAK BHATT</h1>
 
-# 🤍 DIPAK BHATT  
-### 💻 Full Stack Developer • Nepal 🇳🇵  
+<h3> Full Stack developer| nepal🇳🇵</h3>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=BSc+CSIT+Tribhuvan+University;Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+Scalable+Web+Apps;AI+%7C+Backend+%7C+Frontend" />
 
@@ -10,9 +13,8 @@
 ---
 
 ## 🚀 ABOUT ME
-Full Stack Developer from Nepal 🇳🇵  
-I love building real-world web applications and AI-based systems.  
-Focused on Backend (Django) + Frontend (React).
+BSc CSIT graduate from Tribhuvan University. full Stack Developer focused on building scalable web applications.
+                       I build full stack web applications using modern technologies.
 
 ---
 
@@ -37,21 +39,9 @@ Python • Django • React • JavaScript • PostgreSQL • Git • REST APIs
 
 ## 🌐 CONNECT WITH ME
 
-<a href="https://linkedin.com">💼 LinkedIn</a>  
-<a href="https://facebook.com">📘 Facebook</a>  
-<a href="https://instagram.com">📸 Instagram</a>  
-📧 Email: your-email@gmail.com  
+<a href="https://linkedin.com/in/dipakbhatt99">💼 LinkedIn</a>  
+<a href="https://facebook.com/dipak.bhatt.535999">📘 Facebook</a>   
+📧 Email: bhattdipak90@gmail.com
+ 
 
----
 
-## 🇳🇵 NEPAL DEVELOPER
-Building scalable software from Nepal 🇳🇵  
-Code • Build • Learn • Repeat 🚀  
-
----
-
-<div align="center">
-
-⭐ If you like my work, follow me! ⭐  
-
-</div>
